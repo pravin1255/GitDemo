@@ -16,6 +16,9 @@ public class App
 		
 		String pass="tiger";
 		
+		System.out.println("Hellow world 1");
+		
+		System.out.println("Hello world 2nnnn");
 		
 		Connection con=DriverManager.getConnection(jdbc_url, user, pass);
 		
