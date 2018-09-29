@@ -8,5 +8,8 @@ public interface testparent {
 	
 	int x=20;
 	
+	void m9();
+	
+	
 
 }
